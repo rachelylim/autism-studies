@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import ReactSVG from 'react-svg'
 
 class App extends Component {
   constructor(props) {
@@ -7,7 +8,7 @@ class App extends Component {
   }
 
   render() {
-    return <div>hello world</div>;
+    return <ReactSVG path="world.svg" svgStyle={{ width: "100%" }}/>;
   }
 }
 

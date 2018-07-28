@@ -1,0 +1,4 @@
+{
+  "plugins" : ["emotion"],
+  "presets" : ["latest", "react", "stage-2"]
+}

@@ -1,0 +1,63 @@
+year	authors	country	continent	area	population	age	numAffected	diagnosticCriteria	percentWithNormalIQ	genderRatio	prevalence	confidenceInterval
+2000	Baird et al.	UK	europe	South East Thames	16,235	7	94	ICD-10	60	15.7 (83:11)	57.9	46.8; 70.9
+2000	Powell et al.	UK	europe	West Midlands	58,654*	1–5	122	Clinical, ICD-10, DSM-IV	N/A	N/A	20.8	17.3; 24.9
+2001	Bertrand et al.	United States	americas	New Jersey	8,896	3–10	60	DSM-IV	51	2.7 (44:16)	67.4	51.5; 86.7
+2001	Chakrabarti & Fombonne	UK	europe	Stafford	15,500	2.5–6.5	96	ICD-10	74.2	3.8 (77:20)	61.9	50.2; 75.6
+2001	Fombonne et al.	UK	europe	England and Wales	10,438	5–15	27	DSM-IV, ICD-10	55.5	8.0 (24:3)	26.1	16.2; 36.0
+2002	Scott et al.	UK	europe	Cambridge	33,598	5–11	196	ICD-10	N/A	4.0 (—)	58.3*	50.7; 67.1*
+2003	Yeargin- Allsopp et al.	United States	americas	Atlanta, GA	289,456	3–10	987	DSM-IV	31.8	4.0 (787:197)	34	32; 36
+2003	Gurney et al.	United States	americas	Minnesota (2001–2002)	787,308*	6–11	4094	Receipt of MN special education services	N/A	N/A	52.0a	50.4; 53.6*
+2003	Lingam et al.	UK	europe	North East London	186,206	5–14	567	ICD-10	N/A	4.8 (469 :98)	30.5*	27.9; 32.9*
+2004	Icasiano et al.	Australia	oceania	Barwon	45,153*	2–17	177	DSM-IV	53.4	8.3 (158:19)	39.2	33.8; 45.4*
+2005	Chakrabarti and Fombonne	UK	europe	Stafford	10,903	4–6	64	ICD-10	70.2	6.1 (55:9)	58.7	45.2; 74.9
+2006	Baird et al.	UK	europe	South Thames (1990–1991)	56,946	9–10	158	ICD-10	45	3.3 (121:37)	116.1	90.4; 141.8
+2006	Fombonne et al.	Canada	americas	Montreal	27,749	5–17	180	DSM-IV	N/A	4.8 (149:31)	64.9	55.8; 75.0
+2006	Harrison et al.	UK	europe	Scotland	134,661	0–15	443	ICD-10, DSM-IV	N/A	7.0 (369:53)	44.2	39.5; 48.9
+2006	Gillberg et al.	Sweden	europe	Göteborg	32,568	7–12	262	DSM-III, DSM-IV, Gillberg’s criteria for AS	N/A	3.6 (205:57)	80.4	71.3; 90.3
+2006	Ouellette- Kuntz et al.	Canada	americas	Manitoba and Prince Edward Island	227,526	1–14	657	DSM-IV	N/A	4.1 (527:130)	28.9*	26.8; 31.2*
+2007	Croen et al.	United States	americas	Northern California (1995–1999)	132,844	5–10	593	ICD-9-CM	N/A	5.5 (501:92)	45	41.2; 48.4*
+2007a	CDC	United States	americas	6 states	187,761	8	1252	DSM-IV-TR	38 to 60c	2.8 to 5.5	67	63.1; 70.5*
+2007b	CDC	United States	americas	14 states	407,578	8	2685	DSM-IV-TR	55.4d	3.4 to 6.5	66	63; 68
+2007	Latif and Williams	UK	europe	South Wales	39,220	0–17	240	ICD-10, DSM-IV, Kanner’s and Gillberg’s criteria	N/A	6.8 (—)	61.2	53.9; 69.4*
+2008	Wong and Hui	China	asia	Hong Kong Registry	4,247,206	0–14	682	DSM-IV	30	6.6 (592:90)	16.1	14.9; 17.3*
+2008	Montiel- Nava and Pena	Venezuela	americas	Maracaibo	254,905	3–9	430	DSM-IV-TR	N/A	3.3 (329:101)	17	13; 20
+2008	Kawamura et al.	Japan	asia	Toyota	12,589	5–8	228	DSM-IV	66.4	2.8 (168:60)	181.1	159.2; 205.9*
+2008	Williams et al.	UK	europe	Avon	14,062	11	86	ICD-10	85.3	6.8 (75:11)	61.9	48.8; 74.9
+2009	Baron-Cohen et al.	UK	europe	Cambridgeshire	8,824	5–9	83	ICD-10	N/A	N/A	94e	75; 116
+2009	Nicholas et al.	United States	americas	South Carolina	8,156	4	65	DSM-IV-TR	44.2	4.7	80	61; 99
+2009	Van Balkom et al.	Netherlands	europe	Aruba	13,109	0–13	69	DSM-IV	58.8	6.7 (60:9)	52.6	41.0; 66.6
+2009	CDC	United States	americas	11 states	308,038	8	2757	DSM-IV	59	4.5	90	86; 93
+2010	Fernell and Gillberg	Sweden	europe	Stockholm	24,084	6	147	DSM-IV, DSM-IV-TR, ICD-10	33	5.1 (123:24)	62	52; 72
+2010	Lazoff et al.	Canada	americas	Montreal	23,635	5-17	187	DSM-IV	N/A	5.4 (158:29)	79.1	67.8; 90.4
+2010	Barnevik- Olsson et al.	Sweden	europe	Stockholm	113,391	6-10	250	DSM-IV	0	N/A	22	19.4; 25.0*
+2010	Maenner and Durkin	United States	americas	Wisconsin	428,030	Elementary school-aged	3831	DSM-IV like criteria for WI special education services (by school district)	N/A	N/A	90	86.7; 92.4*
+2010	Posserud et al.	Norway	europe	Bergen	9,430	7-9	16	DSM-IV, ICD-10 Included DAWBA and DISCO	N/A	7 (14:2)	87f	10.4; 27.5*
+2011	Al-Farsi et al.	Oman	asia	National Register	528,335	0-14	113	DSM-IV-TR	N/A	2.9 (84:29)	1.4	1.2; 1.7
+2011	Brugha et al.	UK	europe	England	7,333	16-98	72	ADOS	100	3.8	98.2	30; 165
+2011	Kim et al.	S. Korea	asia	Goyang City	55,266	7-12	201	DSM-IV Included ADOS	31.5	3.8	264	191; 337
+2011	Mattila et al.	Finland	europe	Northern Ostrobothnia County	5,484	8	37	DSM-IV-TR included ADOS-G and ADI-R	65	1.8	84	61; 115
+2011	Parner et al.g	Australia	oceania	Western Australia (1994–1999)	152,060	0-10	678	DSM-IV, DSM-IV-TR	N/A	4.1	51	47; 55.3
+2011	Samadi et al.	Iran	asia	National Register	1,320,334	5	826	ADI-R	N/A	4.3	6.4	5.84; 6.70
+2011	Chien et al.	Taiwan	asia	National Health Research Institute	229,457*	0-18	659	ICD-9	N/A	3.7	28.7	26.6; 31*
+2011	Windham et al.h	United States	americas	San Francisco Bay Area (1994,1996)	80,249	9	374	“Full syndrome autism”—CA Dept. of Developmental Services, receipt of CA special education services, or DSM-IV	N/A	6.2 (324:50)	47	42; 52
+2012	CDC	United States	americas	14 states	337,093	8	3820	DSM-IV	38	4.6	113	110; 117
+2012	Davidovitch et al.	Israel	asia	Maccabi HMO Registry	423,524	1-12	2034	DSM-IV	N/A	5.2	48	45.9; 50.1
+2012	Idring et al.	Sweden	americas	Stockholm County Register	444,154	0-17	5100	ICD-09, ICD-10, DSM-IV	57.4	2.6	115	112; 118
+2012	Isaksen et al.	Norway	europe	Oppland and Hedmark	31,015	6-12	158	ICD-10 included ADOS-G and ADI-R	N/A	4.27 (128:30)	51	43; 59
+2012	Kočovská, Biskuptso, et al.i	Denmark	europe	Faroe Islands	7,128	15-24	67	ICD-10, DSM-IV, Gillberg’s criteria	N/A	2.7* (49:18)	94	73; 119
+2012	Nygren et al.	Sweden	europe	Göteborg	5,007	2	40	DSM-IV-TR	63*	4 (32:8)	80	57; 109
+2012	Parner et al.j	Denmark	europe	National Register (1980–2003)	1,311,736	6-29	9556	ICD-8, ICD-9, ICD-10	N/A	4.1	72.9*	71.4; 74.3*
+2013	Ouellette- Kuntz et al.	Canada	americas	Prince Edward Island & Southeastern Ontario (2010)	89,786	2-14	1173	Diagnosis of ASD from qualified professional – National Epidemiologic Database for the Study of Autism in Canada		4.8* (896:186)	130.6*	123.4; 138.3*
+2013	Saemundsen et al.	Iceland	europe	National Database	22,229	6	267	ICD-10 included ADOS & ADI-R	54.7	2.8 (197:70)	120.1	106.6; 135.3
+2013	Taylor et al.	UK	europe	National Database	256,278	8	616	DSM-IV according to General Practice Research Database	N/A	N/A	24	22.2; 26.0
+2014	CDC	United States	americas	11 states	363,749	8	5,338	DSM-IV	69c	4.5	147	142.9; 150.7
+2015	Raz et al.	Israel	asia	National Register (1992- 2009)	2,431,649	0-17	9,109	DSM-IV	N/A	5.1 (7611:1498)	37.5	36.7; 38.2*
+2015	van Bakel et al.	France	europe	4 regions	307,751	7	1,123	ICD-10	53.1	4.1 (880:213)	36.5	34.4; 38.7
+2016	CDC	United States	americas	11 states	346,978	8	5,063	DSM-IV-TR, ICD-9	68.4	4.5 (4.2:4.8)	146	142; 150
+2016	Christensen et al.	United States	americas	5 states	58,467	4	783	ICD-9-CM, DSM-IV-TR	54	3.3 (610:173)	134	125; 144
+2016	Fombonne et al.	Mexico	americas	Leon, Guanajuato	12,116	8	36	DSM-IV-TR SRS, ADOS, ADI-R	33.3	4.1 (29:7)	87	62; 110
+2016	Poovanthinal et al.	India	asia	Kerala	18,480	1-30	43	DSM-IV-TR	N/A	2.1 (9132:9348)	23.3	17.3; 31.3*
+2016	Skonieczna- Zydecka et al.	Poland	europe	West Pomeranian and Pomeranian	708,029	0-16	2,514	ICD-10	N/A	4.3 (2038:476)	35	34.1; 36.9*
+2017	Fairthorne	Australia	oceania	Western Australia Register (1994-2005)	134,204	5-10	1,375	DSM-IV, DSM-IV-TR	N/A	N/A	102.5	97.2; 108*
+submitted	Binta Diallo et al.	Canada	americas	Quebec	1,447,660	1-17	16,940	ICD-9, ICD-10	N/A	4? (missing)	117	115.3; 118.8*
+submitted	Carpenter et al.	USA	americas	3 counties of South Carolina	8,780	8-11	292	ADOS, SCQ	N/A	6.4 (45:7)	362	297.1; 372.2*
